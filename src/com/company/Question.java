@@ -19,4 +19,3 @@ public abstract class Question {
         return prompt;
     }
 }
-K
